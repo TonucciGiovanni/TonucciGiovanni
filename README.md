@@ -1,3 +1,7 @@
 # About me
 
-👋 Hi there! I'm a passionate software developer with a deep interest in Blockchain technology, NFTs, and the cutting-edge fields of Machine Learning and Artificial Intelligence. Always curious, I thrive on exploring new innovations and pushing the boundaries of what's possible in the tech world. When I'm not coding or diving into new frameworks, you'll probably find me reading comic books, kicking around a football, or heading out on my next big adventure—I love discovering new places! 🌍 Fun fact: I still hold onto the imagination of a kid, which keeps my creativity limitless and fuels my passion for building solutions that inspire. Let's create the future together! 🚀
+Hello! I am a software developer who loves learning and building new things. My main interests are Blockchain, NFTs, Machine Learning, and Artificial Intelligence. I enjoy exploring how these technologies can change the world and create new opportunities.
+
+When I am not coding, I like reading comic books, playing football, and traveling to discover new places. I still keep the imagination of a kid, and that helps me stay creative and think of different solutions.
+
+I am always curious, always learning, and excited to contribute to projects that shape the future.
