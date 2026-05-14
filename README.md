@@ -1,4 +1,4 @@
-# Hi, I'm Giovanni Tonucci 👋
+# Hi, I'm Giovanni Tonucci
 
 Power Platform Developer & Full-Stack Engineer based in Nairobi, Kenya.
 
