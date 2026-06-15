@@ -5,7 +5,7 @@
 
 ---
 
-I don't just build systems — I keep them running when it matters most.
+I don't just build systems, I keep them running when it matters most.
 
 As a Technical Resolutions Lead, I own escalation pipelines, drive incident 
 response, and restore service integrity under pressure. My most recent 
