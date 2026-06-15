@@ -9,7 +9,7 @@ I don't just build systems, I keep them running when it matters most.
 
 As a Technical Resolutions Lead, I own escalation pipelines, drive incident 
 response, and restore service integrity under pressure. My most recent 
-infrastructure win: a 60% Azure cost reduction — cutting monthly spend from 
+infrastructure win: a 60% Azure cost reduction cutting monthly spend from 
 $3,900 to $1,500 while maintaining 100% platform availability.
 
 My work sits at the intersection of frontend engineering, custom backend logic, 
